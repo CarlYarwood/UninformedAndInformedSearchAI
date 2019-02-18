@@ -10,7 +10,7 @@ Operator: moveDown
 8 4
 765
 Goal reached in 2 steps
-Expanded 3 nodes during search
+Expanded 7 nodes during search
 134
 862
  75
@@ -39,7 +39,7 @@ Operator: moveDown
 8 4
 765
 Goal reached in 6 steps
-Expanded 7 nodes during search
+Expanded 91 nodes during search
  13
 425
 876
@@ -76,7 +76,7 @@ Operator: moveLeft
 8 4
 765
 Goal reached in 8 steps
-Expanded 10 nodes during search
+Expanded 156 nodes during search
 712
 8 3
 654
@@ -121,7 +121,7 @@ Operator: moveRight
 8 4
 765
 Goal reached in 10 steps
-Expanded 30 nodes during search
+Expanded 690 nodes during search
 812
 7 4
 653
@@ -166,7 +166,7 @@ Operator: moveLeft
 8 4
 765
 Goal reached in 10 steps
-Expanded 30 nodes during search
+Expanded 856 nodes during search
 263
 4 5
 187
@@ -219,7 +219,7 @@ Operator: moveUp
 8 4
 765
 Goal reached in 12 steps
-Expanded 21 nodes during search
+Expanded 1621 nodes during search
 734
 615
 8 2
@@ -284,7 +284,7 @@ Operator: moveRight
 8 4
 765
 Goal reached in 15 steps
-Expanded 56 nodes during search
+Expanded 8361 nodes during search
 745
 6 3
 812
@@ -369,4 +369,4 @@ Operator: moveRight
 8 4
 765
 Goal reached in 20 steps
-Expanded 208 nodes during search
+Expanded 50312 nodes during search

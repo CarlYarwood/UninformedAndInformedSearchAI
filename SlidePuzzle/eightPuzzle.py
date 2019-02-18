@@ -145,3 +145,14 @@ class eightPuzzle(InformedProblemState):
 #InformedSearch(eightPuzzle([2,6,3,4,0,5,1,8,7]),eightPuzzle([1,2,3,8,0,4,7,6,5]))
 #InformedSearch(eightPuzzle([7,3,4,6,1,5,8,0,2]),eightPuzzle([1,2,3,8,0,4,7,6,5]))
 InformedSearch(eightPuzzle([7,4,5,6,0,3,8,1,2]),eightPuzzle([1,2,3,8,0,4,7,6,5]))
+
+#             Node Expansions
+#Problem   BFS  A*(tiles)  A*(dist) 
+#A           7      3          3     
+#B          91      8          7       
+#C         156     19         10         
+#D         690     48         30         
+#E         856     48         30            
+#F        1621    102         21            
+#G        8361    337         56            
+#H       50312   3529        208                   

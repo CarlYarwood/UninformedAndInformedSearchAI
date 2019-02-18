@@ -1,0 +1,8 @@
+Expanded 3 nodes during search
+Expanded 8 nodes during search
+Expanded 19 nodes during search
+Expanded 48 nodes during search
+Expanded 48 nodes during search
+Expanded 102 nodes during search
+Expanded 337 nodes during search
+Expanded 3529 nodes during search
